@@ -1,0 +1,14 @@
+Package: CompDb.Hsapiens.HMDB.5.0
+Title: HMDB compound annotation package
+Description: Exposes a CompDb compound annotation databases with annotations retrieved from HMDB.
+Version: 0.0.1
+Author: A Gautam
+Maintainer: Anupam Gautam <anupam.gautam@uni-tuebingen.de>
+Depends: CompoundDb
+License: Artistic-2.0
+organism: Hsapiens
+provider: HMDB
+provider_version: 5.0
+release_date: 2022-June-21
+resource_url: http://www.hmdb.ca
+biocViews: AnnotationData, CompoundDb, metabolomics
