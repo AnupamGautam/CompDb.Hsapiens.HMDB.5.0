@@ -20,7 +20,7 @@ Data from HMDB was downloaded on: 20/June/2022.
 
 If you find it useful please cite:  [CompoundDb](https://github.com/rformassspectrometry/CompoundDb), [HMDB](http://www.hmdb.ca) and other above-mentioned  packages.
 
-Note: note because of LFS, normal installation like install_github() or remotes::install_github() might through error
+Note: note because of LFS, normal installation like install_github() or remotes::install_github() might throw error
 
 
 ----
