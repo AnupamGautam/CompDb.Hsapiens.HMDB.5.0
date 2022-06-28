@@ -4,7 +4,7 @@
 We made this SQLite database to carry out analysis for a publication work.
 
 A more explained resource can be found at [MetaboAnnotationTutorials](https://github.com/jorainer/MetaboAnnotationTutorials/) along 
-with SQLite file.
+with SQLite file. 
 
 This package was developed by using [CompoundDb](https://github.com/rformassspectrometry/CompoundDb) to use with 
 [MetaboAnnotation](https://github.com/rformassspectrometry/MetaboAnnotation) to carry out compound annotation  based on 
