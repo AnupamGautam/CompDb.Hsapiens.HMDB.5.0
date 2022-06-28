@@ -10,6 +10,6 @@ by using the functions of the package [CompoundDb](https://github.com/rformasssp
 
 Data from HMDB was downloaded on: 20/June/2022.
 
-If you find it useful please cite:  [CompoundDb](https://github.com/rformassspectrometry/CompoundDb), HMDB(http://www.hmdb.ca).
+If you find it useful please cite:  [CompoundDb](https://github.com/rformassspectrometry/CompoundDb), [HMDB](http://www.hmdb.ca).
 
 
