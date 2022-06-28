@@ -26,16 +26,16 @@ Note: note because of LFS, normal installation like install_github() or remotes:
 ----
 ## Best way to install ## 
 
-1. Clone CompDb.Hsapiens.HMDB.5.0 git.
-``git clone https://github.com/AnupamGautam/CompDb.Hsapiens.HMDB.5.0.git ``
+1. Clone CompDb.Hsapiens.HMDB.5.0 git.  
+  ``git clone https://github.com/AnupamGautam/CompDb.Hsapiens.HMDB.5.0.git ``
 
-2. Build CompDb.Hsapiens.HMDB.5.0 
-``R CMD build CompDb.Hsapiens.HMDB.5.0 ``
+2. Build CompDb.Hsapiens.HMDB.5.0  
+  ``R CMD build CompDb.Hsapiens.HMDB.5.0 ``
+    
+This will create CompDb.Hsapiens.HMDB.5.0_0.0.1.tar.gz
+  
+3. Install CompDb.Hsapiens.HMDB.5.0_0.0.1.tar.gz   
+  ``R CMD INSTALL CompDb.Hsapiens.HMDB.5.0_0.0.1.tar.gz ``
 
-wil create CompDb.Hsapiens.HMDB.5.0_0.0.1.tar.gz
-
-3. Install CompDb.Hsapiens.HMDB.5.0_0.0.1.tar.gz 
-``R CMD INSTALL CompDb.Hsapiens.HMDB.5.0_0.0.1.tar.gz ``
-
-You can also specify the library path in the above command (with -l ), if want the package to install in a specific directory  
-``R CMD INSTALL -l /PathToFolder/ CompDb.Hsapiens.HMDB.5.0_0.0.1.tar.gz `` 
+You can also specify the library path in the above command (with -l ), if want the package to install in a specific directory    
+  ``R CMD INSTALL -l /PathToFolder/ CompDb.Hsapiens.HMDB.5.0_0.0.1.tar.gz `` 
